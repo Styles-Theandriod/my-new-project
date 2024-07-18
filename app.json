@@ -7,9 +7,10 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/RydaConnect.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "width": 10,
+      "backgroundColor": "#72B01D"
     },
     "ios": {
       "supportsTablet": true
@@ -17,7 +18,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#72B01D"
       }
     },
     "web": {
